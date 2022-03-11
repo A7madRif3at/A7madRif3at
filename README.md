@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A7madRif3at
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Advanced Data Analysis 
-- 💞️ I’m looking to collaborate on projects which is allowing to get more deep in data science 
+- 💞️ I’m looking to collaborate on projects which is allowing me to get more deep in data science 
 - 📫 reach me over mail ahmedrefaa0809@gmail.com
 
 <!---
